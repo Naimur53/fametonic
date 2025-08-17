@@ -44,7 +44,7 @@ const HeroSection = () => {
                         <span className='mt-[10px] leading-[16px] text-center text-[12px] block'>1-minute quiz for personalized Insights</span>
                     </div>
                     <div className='max-w-[281px] md:max-w-full text-dark-gray mt-[0px] md:mt-[30px] text-[12px] leading-[14px] font-medium my-text text-center md:text-left'>
-                        <p >By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms</p>
+                        <p >By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms</p>
                         <p className='mt-[19px] md:mt-[12px] text-[10px] leading-[14px] md:leading-[12px]'>Fametonic 2025 ©All Rights Reserved.</p>
                     </div>
                 </div>
